@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.0.4",
+    "version_number": "1.0.5",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -19,7 +19,8 @@
 		"Drakorle-MoreItems-1.0.1",
 		"Tyzeron-Minimap-1.0.3",
 		"tinyhoot-ShipLoot-1.0.0",
-		"Pooble-LCBetterSaves-1.4.0"
+		"Pooble-LCBetterSaves-1.4.0",
+		"NotAtomicBomb-Terminal_Clock-1.0.2"
     ]
 }
 
