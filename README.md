@@ -1,2 +1,3 @@
-# GDG-LC-MODS
- 
+# What is this?
+
+Modpack that GrumpyDogsGaming.com Uses
