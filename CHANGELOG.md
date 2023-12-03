@@ -1,3 +1,7 @@
+[v1.0.8]
+
++ Remove Radsi2-Shotgun-1.0.0 as it does nothing.
+
 [v1.0.7]
 
 + Added

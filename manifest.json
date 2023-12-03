@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.0.7",
+    "version_number": "1.0.8",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -18,11 +18,8 @@
 		"tinyhoot-ShipLoot-1.0.0",
 		"Pooble-LCBetterSaves-1.4.0",
 		"NotAtomicBomb-Terminal_Clock-1.0.2",
-		"Radsi2-Shotgun-1.0.0",
 		"MetalPipeSFX-HornMoan-2.0.0",
 		"sunnobunno-BonkHitSFX-1.0.1",
 		"sunnobunno-LandMineFartReverb-1.0.1"
     ]
 }
-
-
