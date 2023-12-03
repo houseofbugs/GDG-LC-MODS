@@ -1,3 +1,8 @@
+[v1.0.6]
+
++ Remove BepInEx-BepInExPack, Evaisa-HookGenPatcher, & Evaisa-LethalLib. Let the mods that need them install them.
++ 
+
 [v1.0.5]
 
 + Added NotAtomicBomb-Terminal_Clock-1.0.2
