@@ -1,7 +1,15 @@
+[v1.0.7]
+
++ Added
+	+ Radsi2-Shotgun-1.0.0
+	+ MetalPipeSFX-HornMoan-2.0.0
+	+ sunnobunno-BonkHitSFX-1.0.1
+	+ sunnobunno-LandMineFartReverb-1.0.1
+
 [v1.0.6]
 
 + Remove BepInEx-BepInExPack, Evaisa-HookGenPatcher, & Evaisa-LethalLib. Let the mods that need them install them.
-+ 
+ 
 
 [v1.0.5]
 
