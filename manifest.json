@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.0.1",
+    "version_number": "1.0.3",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -17,7 +17,9 @@
 		"Evaisa-LethalThings-0.3.0",
 		"FlipMods-HotbarPlus-1.2.8",
 		"Drakorle-MoreItems-1.0.1",
-		"Tyzeron-Minimap-1.0.3"
+		"Tyzeron-Minimap-1.0.3",
+		"tinyhoot-ShipLoot-1.0.0",
+		"Pooble-LCBetterSaves-1.4.0"
     ]
 }
 
