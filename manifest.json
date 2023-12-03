@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.0.8",
+    "version_number": "1.0.9",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -20,6 +20,7 @@
 		"NotAtomicBomb-Terminal_Clock-1.0.2",
 		"MetalPipeSFX-HornMoan-2.0.0",
 		"sunnobunno-BonkHitSFX-1.0.1",
-		"sunnobunno-LandMineFartReverb-1.0.1"
+		"sunnobunno-LandMineFartReverb-1.0.1",
+		"FlipMods-LetMeLookDown-1.0.1"
     ]
 }
