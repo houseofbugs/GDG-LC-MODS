@@ -1,3 +1,14 @@
+[v1.0.4]
+
++ Hotkey Setup
+	+ F1 Emote
+	+ F2 Point
+	+ F3 MiniMap Menu
+	+ F4 Toggle MiniMap
+	+ F5 Override Ship Controls
+	+ F6 Switch MiniMap Focus
+	+ 1-8 Inventory Controls
+
 [v1.0.3]
 
 + Added tinyhoot-ShipLoot-1.0.0
