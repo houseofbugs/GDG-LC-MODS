@@ -1,3 +1,7 @@
+[v1.0.10]
+
++ Added JT-LC_Better_Teleport-1.0.0
+
 [v1.0.9]
 
 + Added FlipMods-LetMeLookDown-1.0.1

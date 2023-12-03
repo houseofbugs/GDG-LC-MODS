@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.0.9",
+    "version_number": "1.0.10",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -21,6 +21,7 @@
 		"MetalPipeSFX-HornMoan-2.0.0",
 		"sunnobunno-BonkHitSFX-1.0.1",
 		"sunnobunno-LandMineFartReverb-1.0.1",
-		"FlipMods-LetMeLookDown-1.0.1"
+		"FlipMods-LetMeLookDown-1.0.1",
+		"JT-LC_Better_Teleport-1.0.0"
     ]
 }
