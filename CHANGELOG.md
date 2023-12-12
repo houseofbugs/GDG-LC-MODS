@@ -1,3 +1,7 @@
+[v1.0.12]
+
++ Removed old config files
+
 [v1.0.11]
 
 + Updated mods to the new versions and removed ones that were causing issues.
