@@ -1,3 +1,7 @@
+[v1.0.14]
+
++ Ass ship loot back in
+
 [v1.0.13]
 
 + Update additional suits to 1.1.0
