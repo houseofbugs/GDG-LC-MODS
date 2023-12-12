@@ -1,3 +1,7 @@
+[v1.0.13]
+
++ Update additional suits to 1.1.0
+
 [v1.0.12]
 
 + Removed old config files
