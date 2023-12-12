@@ -1,3 +1,7 @@
+[v1.0.11]
+
++ Updated mods to the new versions and removed ones that were causing issues.
+
 [v1.0.10]
 
 + Added JT-LC_Better_Teleport-1.0.0
