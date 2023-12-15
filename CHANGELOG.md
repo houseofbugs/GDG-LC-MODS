@@ -1,6 +1,13 @@
+[v1.1.0]
+
++ Support for v45
++ Add malco-Lategame_Upgrades-2.6.1
++ Update Morecompany to 1.0.7
++ Update LateCompany to 1.0.6
+
 [v1.0.14]
 
-+ Ass ship loot back in
++ Add ship loot back in
 
 [v1.0.13]
 

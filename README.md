@@ -1,6 +1,6 @@
 # What is this?
 
-Modpack that GrumpyDogsGaming.com Uses
+Modpack that [GrumpyDogsGaming.com](https://www.GrumpyDogsGaming.com) Uses
 
 # HotKeys
 
@@ -9,3 +9,12 @@ Modpack that GrumpyDogsGaming.com Uses
 - `F2` Point
 - `1-8` Inventory Controls
 - `INSERT` GameMaster Menu (HOST ONLY)
+- `LEFT ALT` Toggle Night Vision
+
+# Other Stuff
+
+Type `lategame` in the terminal to see mod info!
+
+Type `lategame store` or `lgu` to view current upgrade status and cost.
+
+Type `info <upgrade>` for dynamic info.

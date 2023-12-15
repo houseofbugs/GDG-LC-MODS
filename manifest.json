@@ -1,17 +1,18 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.0.14",
+    "version_number": "1.1.0",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
         "AlexCodesGames-AdditionalSuits-1.1.0",
-		"anormaltwig-LateCompany-1.0.5",
+		"anormaltwig-LateCompany-1.0.6",
 		"FlipMods-BetterStamina-1.2.1",
-		"notnotnotswipez-MoreCompany-1.7.1",
+		"notnotnotswipez-MoreCompany-1.7.2",
 		"GameMasterDevs-GameMaster-3.2.0",
 		"Renegades-FlashlightToggle-1.4.1",
 		"FlipMods-HotbarPlus-1.3.2",
 		"Drakorle-MoreItems-1.0.1",
-		"tinyhoot-ShipLoot-1.0.0"
+		"tinyhoot-ShipLoot-1.0.0",
+		"malco-Lategame_Upgrades-2.6.1"
     ]
 }
