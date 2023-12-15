@@ -1,3 +1,7 @@
+[v1.1.3]
+
++ Removed malco-Lategame_Upgrades-2.6.1 Due to bugs
+
 [v1.1.2]
 
 + Fixed README
