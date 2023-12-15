@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -13,6 +13,9 @@
 		"FlipMods-HotbarPlus-1.3.2",
 		"Drakorle-MoreItems-1.0.1",
 		"tinyhoot-ShipLoot-1.0.0",
-		"malco-Lategame_Upgrades-2.6.1"
+		"malco-Lategame_Upgrades-2.6.1",
+		"sunnobunno-YippeeMod-1.2.2",
+		"sunnobunno-LandMineFartReverb-1.0.2",
+		"Sligili-More_Emotes-1.2.1"
     ]
 }

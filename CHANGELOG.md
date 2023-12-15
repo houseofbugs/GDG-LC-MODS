@@ -1,3 +1,9 @@
+[v1.1.1]
+
++ Added sunnobunno-YippeeMod-1.2.2
++ Added sunnobunno-LandMineFartReverb-1.0.2
++ Added Sligili-More_Emotes-1.2.1
+
 [v1.1.0]
 
 + Support for v45
