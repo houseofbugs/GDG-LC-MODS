@@ -1,3 +1,7 @@
+[v1.1.2]
+
++ Fixed README
+
 [v1.1.1]
 
 + Added sunnobunno-YippeeMod-1.2.2
