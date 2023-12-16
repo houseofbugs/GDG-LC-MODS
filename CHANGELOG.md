@@ -1,3 +1,8 @@
+[v1.1.4]
+
++ Added gamendegamer-Lethal_Admin-1.0.6
++ Updated Hotbarplus to 1.3.3
+
 [v1.1.3]
 
 + Removed malco-Lategame_Upgrades-2.6.1 Due to bugs
