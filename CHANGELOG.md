@@ -1,3 +1,7 @@
+[v1.1.5]
+
++ Updated Hotbar to 1.3.4 and updated its config to new format
+
 [v1.1.4]
 
 + Added gamendegamer-Lethal_Admin-1.0.6
