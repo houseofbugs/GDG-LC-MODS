@@ -1,21 +1,23 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.5",
+    "version_number": "1.1.6",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
-        "AlexCodesGames-AdditionalSuits-1.1.0",
-		"anormaltwig-LateCompany-1.0.6",
-		"FlipMods-BetterStamina-1.2.1",
+        "AlexCodesGames-AdditionalSuits-1.1.3",
+		"anormaltwig-LateCompany-1.0.7",
+		"FlipMods-BetterStamina-1.3.2",
 		"notnotnotswipez-MoreCompany-1.7.2",
 		"GameMasterDevs-GameMaster-3.2.0",
-		"Renegades-FlashlightToggle-1.4.1",
-		"FlipMods-HotbarPlus-1.3.4",
+		"Renegades-FlashlightToggle-1.5.0",
+		"FlipMods-HotbarPlus-1.3.5",
 		"Drakorle-MoreItems-1.0.1",
 		"tinyhoot-ShipLoot-1.0.0",
 		"sunnobunno-YippeeMod-1.2.2",
 		"sunnobunno-LandMineFartReverb-1.0.2",
 		"Sligili-More_Emotes-1.2.1",
-		"gamendegamer-Lethal_Admin-1.0.6"
+		"gamendegamer-Lethal_Admin-1.0.6",
+		"x753-Mimics-2.3.0",
+		"boring-InfiniteShotgunAmmo-1.0.3"
     ]
 }

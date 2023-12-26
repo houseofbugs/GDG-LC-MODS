@@ -1,3 +1,12 @@
+[v1.1.6]
+
++ Added boring-InfiniteShotgunAmmo-1.0.3
++ Added x753-Mimics-2.3.0
++ Updated anormaltwig-LateCompany-1.0.7
++ Updated Renegades-FlashlightToggle-1.5.0
++ Updated FlipMods-HotbarPlus-1.3.5
++ Updated Sligili-More_Emotes-1.2.2
+
 [v1.1.5]
 
 + Updated Hotbar to 1.3.4 and updated its config to new format
