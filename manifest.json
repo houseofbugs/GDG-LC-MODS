@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.6",
+    "version_number": "1.1.7",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -18,6 +18,8 @@
 		"Sligili-More_Emotes-1.2.2",
 		"gamendegamer-Lethal_Admin-1.0.6",
 		"x753-Mimics-2.3.0",
-		"boring-InfiniteShotgunAmmo-1.0.3"
+		"boring-InfiniteShotgunAmmo-1.0.3",
+		"MegaPiggy-BuyableShotgun-1.0.0",
+		"MegaPiggy-BuyableShotgunShells-1.0.1"
     ]
 }

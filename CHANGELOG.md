@@ -1,3 +1,9 @@
+[v1.1.7]
+
++ Added MegaPiggy-BuyableShotgun-1.0.0
++ Added MegaPiggy-BuyableShotgunShells-1.0.1
++ Updated Sligili-More_Emotes-1.2.2
+
 [v1.1.6]
 
 + Added boring-InfiniteShotgunAmmo-1.0.3
