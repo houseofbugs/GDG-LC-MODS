@@ -1,3 +1,7 @@
+[v1.1.8]
+
++ Added RugbugRedfern-Skinwalkers-2.0.1
+
 [v1.1.7]
 
 + Added MegaPiggy-BuyableShotgun-1.0.0
