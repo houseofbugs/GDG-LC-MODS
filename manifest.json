@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.8",
+    "version_number": "1.1.9",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -21,6 +21,7 @@
 		"boring-InfiniteShotgunAmmo-1.0.3",
 		"MegaPiggy-BuyableShotgun-1.0.0",
 		"MegaPiggy-BuyableShotgunShells-1.0.1",
-		"RugbugRedfern-Skinwalkers-2.0.1"
+		"RugbugRedfern-Skinwalkers-2.0.1",
+		"OrtonLongGaming-FreddyBracken-1.0.6"
     ]
 }

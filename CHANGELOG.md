@@ -1,3 +1,8 @@
+[v1.1.9]
+
++ Changed Game Master Max Buy Rate to 1.0 from 1.5
++ Added OrtonLongGaming-FreddyBracken-1.0.6
+
 [v1.1.8]
 
 + Added RugbugRedfern-Skinwalkers-2.0.1
