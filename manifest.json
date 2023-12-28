@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.9",
+    "version_number": "1.1.10",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -10,7 +10,7 @@
 		"notnotnotswipez-MoreCompany-1.7.2",
 		"GameMasterDevs-GameMaster-3.2.0",
 		"Renegades-FlashlightToggle-1.5.0",
-		"FlipMods-HotbarPlus-1.3.5",
+		"FlipMods-HotbarPlus-1.4.3",
 		"Drakorle-MoreItems-1.0.1",
 		"tinyhoot-ShipLoot-1.0.0",
 		"sunnobunno-YippeeMod-1.2.2",
@@ -22,6 +22,7 @@
 		"MegaPiggy-BuyableShotgun-1.0.0",
 		"MegaPiggy-BuyableShotgunShells-1.0.1",
 		"RugbugRedfern-Skinwalkers-2.0.1",
-		"OrtonLongGaming-FreddyBracken-1.0.6"
+		"OrtonLongGaming-FreddyBracken-1.0.6",
+		"FlipMods-FasterItemDropship-1.2.0"
     ]
 }
