@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.10",
+    "version_number": "1.1.11",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -23,6 +23,8 @@
 		"MegaPiggy-BuyableShotgunShells-1.0.1",
 		"RugbugRedfern-Skinwalkers-2.0.1",
 		"OrtonLongGaming-FreddyBracken-1.0.6",
-		"FlipMods-FasterItemDropship-1.2.0"
+		"FlipMods-FasterItemDropship-1.2.0",
+		"HomelessGinger-MaskedEnemyOverhaul-2.1.0",
+		"SirTyler-BetterTeleporter-1.2.2"
     ]
 }

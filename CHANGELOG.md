@@ -1,3 +1,8 @@
+[v1.1.11]
+
++ Added HomelessGinger-MaskedEnemyOverhaul-2.1.0
++ Added SirTyler-BetterTeleporter-1.2.2
+
 [v1.1.10]
 
 + Added FlipMods-FasterItemDropship-1.2.0
