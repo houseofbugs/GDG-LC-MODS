@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.15",
+    "version_number": "1.1.16",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -29,8 +29,9 @@
 		"notnotnotswipez-MoreCompany-1.7.2",
 		"Drakorle-MoreItems-1.0.1",
 		"Jordo-NeedyCats-1.0.2",
-		"tinyhoot-ShipLoot-1.0.0",		
-		"RugbugRedfern-Skinwalkers-2.0.1",		
+		"tinyhoot-ShipLoot-1.0.0",
+		"RugbugRedfern-Skinwalkers-2.0.1",
+		"Verity-TooManySuits-1.0.4",
 		"sunnobunno-YippeeMod-1.2.2"		
     ]
 }
