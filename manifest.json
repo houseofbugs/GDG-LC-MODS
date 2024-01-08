@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.18",
+    "version_number": "1.1.19",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -25,7 +25,7 @@
 		"kuba6000-LC_Masked_Fix-0.0.1",
 		"gamendegamer-Lethal_Admin-1.2.0",
 		"Rune580-LethalCompany_InputUtils-0.4.4",
-		"Toskan4134-LethalRegeneration-1.1.1",
+		"Toskan4134-LethalRegeneration-1.2.0",
 		"FlipMods-LetMeLookDown-1.0.1",
 		"HomelessGinger-MaskedEnemyOverhaul-2.2.1",
 		"x753-Mimics-2.3.1",
