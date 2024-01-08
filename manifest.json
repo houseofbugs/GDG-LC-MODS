@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.1.19",
+    "version_number": "1.2.1",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -27,13 +27,13 @@
 		"Rune580-LethalCompany_InputUtils-0.4.4",
 		"Toskan4134-LethalRegeneration-1.2.0",
 		"FlipMods-LetMeLookDown-1.0.1",
-		"HomelessGinger-MaskedEnemyOverhaul-2.2.1",
+		"HomelessGinger-MaskedEnemyOverhaul-2.3.0",
 		"x753-Mimics-2.3.1",
 		"notnotnotswipez-MoreCompany-1.7.2",
 		"Drakorle-MoreItems-1.0.1",
 		"Jordo-NeedyCats-1.1.1",
 		"tinyhoot-ShipLoot-1.0.0",
-		"RugbugRedfern-Skinwalkers-2.0.2",
+		"RugbugRedfern-Skinwalkers-2.0.3",
 		"FlipMods-TooManyEmotes-1.7.6",
 		"Verity-TooManySuits-1.0.5",
 		"sunnobunno-YippeeMod-1.2.2"		
