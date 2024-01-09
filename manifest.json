@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.2.3",
+    "version_number": "1.2.4",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -22,7 +22,6 @@
 		"Kittenji-LaserPointerDetonator-1.0.0",
 		"anormaltwig-LateCompany-1.0.10",
 		"kuba6000-LC_Masked_Fix-0.0.1",
-		"Ry-LC_ReviveDeadPlayers-1.0.0",
 		"gamendegamer-Lethal_Admin-1.2.0",
 		"Rune580-LethalCompany_InputUtils-0.4.4",
 		"Toskan4134-LethalRegeneration-1.2.0",
