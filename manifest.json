@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.2.6",
+    "version_number": "1.2.7",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -26,12 +26,10 @@
 		"FlipMods-LetMeLookDown-1.0.1",
 		"HomelessGinger-MaskedEnemyOverhaul-2.4.1",
 		"x753-Mimics-2.3.2",
-		"x753-More_Suits-1.4.1",
 		"notnotnotswipez-MoreCompany-1.7.4",
 		"Drakorle-MoreItems-1.0.2",
 		"RugbugRedfern-Skinwalkers-2.0.6",
 		"FlipMods-TooManyEmotes-1.7.8",
-		"Verity-TooManySuits-1.0.5",
 		"sunnobunno-YippeeMod-1.2.3"		
     ]
 }
