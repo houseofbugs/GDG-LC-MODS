@@ -4,7 +4,7 @@
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
-        "AlexCodesGames-AdditionalSuits-1.1.3",
+        "AlexCodesGames-AdditionalSuits-2.0.0",
 		"FlipMods-BetterStamina-1.3.2",
 		"MegaPiggy-BuyableShotgun-1.0.0",
 		"Renegades-FlashlightToggle-1.5.0",
@@ -14,12 +14,12 @@
 		"matsuura-HealthMetrics-1.0.2",
 		"RickArg-Helmet_Cameras-2.1.5",
 		"MetalPipeSFX-HornMoan-2.1.0",
-		"FlipMods-HotbarPlus-1.5.0",
+		"FlipMods-HotbarPlus-1.5.1",
 		"boring-InfiniteShotgunAmmo-1.0.3",
-		"sunnobunno-LandMineFartReverb-1.0.2",
+		"sunnobunno-LandMineFartReverb-1.0.3",
 		"Kittenji-LaserPointerDetonator-1.0.0",
 		"anormaltwig-LateCompany-1.0.10",
-		"kuba6000-LC_Masked_Fix-0.0.1",
+		"kuba6000-LC_Masked_Fix-0.0.2",
 		"gamendegamer-Lethal_Admin-1.2.0",
 		"Rune580-LethalCompany_InputUtils-0.4.4",
 		"Toskan4134-LethalRegeneration-1.2.0",
@@ -28,10 +28,10 @@
 		"x753-Mimics-2.3.2",
 		"x753-More_Suits-1.4.1",
 		"notnotnotswipez-MoreCompany-1.7.4",
-		"Drakorle-MoreItems-1.0.1",
-		"RugbugRedfern-Skinwalkers-2.0.5",
-		"FlipMods-TooManyEmotes-1.7.6",
+		"Drakorle-MoreItems-1.0.2",
+		"RugbugRedfern-Skinwalkers-2.0.6",
+		"FlipMods-TooManyEmotes-1.7.8",
 		"Verity-TooManySuits-1.0.5",
-		"sunnobunno-YippeeMod-1.2.2"		
+		"sunnobunno-YippeeMod-1.2.3"		
     ]
 }
