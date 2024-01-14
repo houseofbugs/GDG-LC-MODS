@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.3.0",
+    "version_number": "1.3.1",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -29,6 +29,7 @@
 		"notnotnotswipez-MoreCompany-1.7.4",
 		"RugbugRedfern-Skinwalkers-2.0.6",
 		"FlipMods-TooManyEmotes-1.7.8",
-		"sunnobunno-YippeeMod-1.2.3"		
+		"sunnobunno-YippeeMod-1.2.3",
+		"Hexiez-Night_Vision_LC-1.0.0"
     ]
 }
