@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.5.1",
+    "version_number": "1.6.0",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -12,12 +12,17 @@
 		"FlipMods-HotbarPlus-1.5.7",
 		"boring-InfiniteShotgunAmmo-1.0.3",
 		"sunnobunno-LandMineFartReverb-1.0.3",
+		"Rune580-LethalCompany_InputUtils-0.4.4"
 		"anormaltwig-LateCompany-1.0.10",
 		"Toskan4134-LethalRegeneration-1.2.0",
 		"FlipMods-LetMeLookDown-1.0.1",
 		"notnotnotswipez-MoreCompany-1.7.6",
 		"RugbugRedfern-Skinwalkers-4.0.1",
 		"sunnobunno-YippeeMod-1.2.3",
-		"Hexiez-Night_Vision_LC-1.0.0"
+		"Renegades-FlashlightToggle-1.5.0",
+		"FlipMods-TooManyEmotes-1.7.8",
+		"Hexiez-Night_Vision_LC-1.0.0",
+		"thomas-AlwaysShowClock-1.0.0",
+		"AgentRev-ShootableMouthDogs-1.0.1"
     ]
 }
