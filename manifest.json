@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.6.1",
+    "version_number": "1.7.0",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -26,6 +26,7 @@
 		"RugbugRedfern-Skinwalkers-4.0.1",
 		"AgentRev-ShootableMouthDogs-1.0.1",
 		"FlipMods-TooManyEmotes-1.7.8",
-		"sunnobunno-YippeeMod-1.2.3"
+		"sunnobunno-YippeeMod-1.2.3",
+		"ControlCompany-ControlCompany-1.1.6"
     ]
 }
