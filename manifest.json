@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.8.3",
+    "version_number": "1.8.4",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -24,6 +24,7 @@
 		"RugbugRedfern-Skinwalkers-4.0.3",
 		"AgentRev-ShootableMouthDogs-1.0.1",
 		"FlipMods-TooManyEmotes-2.0.3",
-		"Panton-Racist_Hoarding_Bugs-2.0.6"
+		"Panton-Racist_Hoarding_Bugs-2.0.6",
+		"taffyko-NameplateTweaks-1.0.6"
     ]
 }
