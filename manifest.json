@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.9.1",
+    "version_number": "1.9.2",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -26,6 +26,7 @@
 		"FlipMods-TooManyEmotes-2.0.3",
 		"sunnobunno-YippeeMod-1.2.4",
 		"taffyko-NameplateTweaks-1.0.6",
-		"boring-InfiniteShotgunAmmo-1.0.3"
+		"boring-InfiniteShotgunAmmo-1.0.3",
+		"FoxGod-ThiccCompanyModelReplacement-2.0.1"
     ]
 }
