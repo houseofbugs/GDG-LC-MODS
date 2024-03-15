@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "1.9.2",
+    "version_number": "1.9.3",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -27,6 +27,7 @@
 		"sunnobunno-YippeeMod-1.2.4",
 		"taffyko-NameplateTweaks-1.0.6",
 		"boring-InfiniteShotgunAmmo-1.0.3",
-		"FoxGod-ThiccCompanyModelReplacement-2.0.1"
+		"FoxGod-ThiccCompanyModelReplacement-2.0.1",
+		"explodingMods-LandmineSmokeDetectorSound-1.1.0"
     ]
 }
