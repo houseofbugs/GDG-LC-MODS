@@ -9,4 +9,3 @@ Modpack that [GrumpyDogsGaming.com](https://www.GrumpyDogsGaming.com) Uses
 - `F1` Emote
 - `F2` Point
 - `1-8` Inventory Controls
-- `INSERT` GameMaster Menu (HOST ONLY)
