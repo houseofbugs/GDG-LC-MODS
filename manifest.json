@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "2.2.0",
+    "version_number": "2.2.1",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -32,6 +32,7 @@
 		"EliteMasterEric-Coroner-2.2.0",
 		"ZordAndCo-FunPosters-1.0.8",
 		"299792458-MoreMoneyStart-2.1.0",
-		"DarkMorosh-AngryBritishButler-1.1.2"
+		"DarkMorosh-AngryBritishButler-1.1.2",
+		"sunnobunno-BonkHitSFX-1.0.5"
     ]
 }
