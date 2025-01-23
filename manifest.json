@@ -1,6 +1,6 @@
 {
     "name": "GrumpyDogsGaming_ModPack",
-    "version_number": "2.3.3",
+    "version_number": "2.3.4",
     "website_url": "https://www.GrumpyDogsGaming.com",
     "description": "Modpack for GDG Gamers",
     "dependencies": [
@@ -36,6 +36,7 @@
 		"sunnobunno-BonkHitSFX-1.0.5",
 		"MillieTheSilly-BrokenBags-0.1.0",
 		"OurSapphireStar-Aldi_Suit-1.2.5",
-		"66Studios-No_Weight_Gain-1.0.0"
+		"66Studios-No_Weight_Gain-1.0.0",
+		"RickArg-Helmet_Cameras-2.1.5"
     ]
 }
